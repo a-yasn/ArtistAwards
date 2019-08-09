@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistAwards", "ArtistAwards\ArtistAwards.csproj", "{0E846376-BE47-4944-9C5A-4D1DEF630BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistAwards.DAL", "ArtistAwards.DAL\ArtistAwards.DAL.csproj", "{9C945AB0-B3B5-413F-B0B9-A20A75CDC7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E846376-BE47-4944-9C5A-4D1DEF630BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E846376-BE47-4944-9C5A-4D1DEF630BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E846376-BE47-4944-9C5A-4D1DEF630BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E846376-BE47-4944-9C5A-4D1DEF630BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C945AB0-B3B5-413F-B0B9-A20A75CDC7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C945AB0-B3B5-413F-B0B9-A20A75CDC7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C945AB0-B3B5-413F-B0B9-A20A75CDC7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C945AB0-B3B5-413F-B0B9-A20A75CDC7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA71A30-62FF-46A8-AFD2-A166BAECBEFE}
+	EndGlobalSection
+EndGlobal
